@@ -8,7 +8,7 @@
 :root {
   --designa-primary-rgb: #29d0e9;
   --designa-secondary-rgb:#ff0066;
-  --designa-font-size: .875rem;
+  --designa-font-size: 1.3rem;
   --designa-font-color: #575758;
   --designa-letter-spacing: 0.03em;
   --designa-letter-spacing: 0.03em;
@@ -19,15 +19,15 @@
 /* COLORS PRESETS  */
 /* COLORS Buttons*/
 .wrapper {
-  padding-right: 16px;
-  padding-left: 16px;
+  padding-right: 1.6rem;
+  padding-left: 1.6rem;
   margin-right: auto;
   margin-left: auto;
 }
 
 .wrapper-fluid {
-  padding-right: 16px;
-  padding-left: 16px;
+  padding-right: 1.6rem;
+  padding-left: 1.6rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -48,8 +48,8 @@
   }
 }
 .adx-row {
-  margin-right: -16px;
-  margin-left: -16px;
+  margin-right: -1.6rem;
+  margin-left: -1.6rem;
 }
 .adx-row .adx-row {
   margin: 0;
